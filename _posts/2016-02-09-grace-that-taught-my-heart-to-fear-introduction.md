@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T20:47:33.225Z'
-dateModified: '2016-02-09T20:47:20.564Z'
+datePublished: '2016-02-10T00:11:53.160Z'
+dateModified: '2016-02-10T00:11:33.044Z'
 title: Grace That Taught My Heart To Fear- Introduction
 author: []
+sourcePath: _posts/2016-02-09-grace-that-taught-my-heart-to-fear-introduction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-grace-that-taught-my-heart-to-fear-introduction.md
-published: true
 url: grace-that-taught-my-heart-to-fear-introduction/index.html
 _type: Article
 
@@ -29,8 +29,6 @@ _type: Article
 
 **_This is the
 commandment: that you may fear the LORD your God. ~Deuteronomy 6:2_**
-
-**_INTRODUCTION_**
 
 Fear is a
 funny thing. Nobody likes to be afraid---except for when we do: roller coasters,
