@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T00:08:00.745Z'
-dateModified: '2016-02-10T00:07:37.641Z'
+datePublished: '2016-02-10T02:31:13.788Z'
+dateModified: '2016-02-10T02:31:09.303Z'
 title: "Chapter 3- Of Course He Isn't Safe"
 author: []
 sourcePath: _posts/2016-02-09-chapter-3-of-course-he-isnt-safe.md
@@ -33,8 +33,6 @@ after Yahweh; he will roar like a lion; when he roars, his children will come
 trembling from the west. ~Hosea 11:9-10_**
 
 **__**
-
-**CHAPTER 3- OF COURSE HE ISN'T SAFE**
 
 As I have
 reflected on the paradox of God, the blazing center of reality, I have been
