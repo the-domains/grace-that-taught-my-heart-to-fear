@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T20:46:14.225Z'
-dateModified: '2016-02-09T20:46:02.428Z'
+datePublished: '2016-02-10T02:30:24.020Z'
+dateModified: '2016-02-10T00:17:08.104Z'
 title: 'Chapter 1- Wrath and Love: The Paradox of God'
 author: []
+sourcePath: _posts/2016-02-09-chapter-1-wrath-and-love-the-paradox-of-god.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-chapter-1-wrath-and-love-the-paradox-of-god.md
-published: true
 url: chapter-1-wrath-and-love-the-paradox-of-god/index.html
 _type: Article
 
@@ -32,8 +32,6 @@ God merciful and gracious, slow to anger and abounding in steadfast love and
 faithfulness, keeping steadfast love for thousands, forgiving iniquity and
 transgression and sin, but who will by no means clear the guilty. ~Exodus
 34:6-7_**
-
-**_CHAPTER 1- WRATH AND LOVE: THE PARADOX OF GOD_**
 
 We talk a
 lot about relationship with God in biblical language rich with metaphors---He is
