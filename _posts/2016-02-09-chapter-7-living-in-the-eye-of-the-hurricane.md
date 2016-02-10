@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T02:32:49.364Z'
-dateModified: '2016-02-10T02:32:45.905Z'
+datePublished: '2016-02-10T02:39:42.879Z'
+dateModified: '2016-02-10T02:39:38.766Z'
 title: Chapter 7- Living in the Eye of the Hurricane
 author: []
 sourcePath: _posts/2016-02-09-chapter-7-living-in-the-eye-of-the-hurricane.md
