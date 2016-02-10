@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T00:03:49.650Z'
-dateModified: '2016-02-10T00:03:23.856Z'
+datePublished: '2016-02-10T02:30:49.727Z'
+dateModified: '2016-02-10T02:30:46.358Z'
 title: Chapter 2- Knowing that You Were Ransomed
 author: []
 sourcePath: _posts/2016-02-09-chapter-2-knowing-that-you-were-ransomed.md
@@ -30,8 +30,6 @@ _type: Article
 **_Conduct yourselves with
 fear throughout the time of your exile, knowing that you were ransomed... ~1
 Peter 1:17-18_**
-
-**CHAPTER 2- KNOWING THAT YOU WERE RANSOMED**
 
 The
 greatest realities in the universe are wrapped up in the paradox of God's wrath
