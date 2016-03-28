@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T00:09:52.186Z'
-dateModified: '2016-02-10T00:09:27.539Z'
+datePublished: '2016-03-28T01:59:12.600Z'
+dateModified: '2016-03-28T01:59:02.511Z'
 title: Chapter 4- Standing on the Stone of Stumbling
 author: []
 sourcePath: _posts/2016-02-09-chapter-4-standing-on-the-stone-of-stumbling.md
@@ -23,7 +23,8 @@ _type: Article
 
 ---
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be6b7314-52c0-4c01-b127-258100dcc852.jpg)
+
+**__**
 
 **__**
 
@@ -382,3 +383,4 @@ _I love you, O
 Yahweh, my strength! Yahweh is my rock and my fortress and my deliverer, my
 God, my rock in whom I take refuge, my shield, and the strength of my
 salvation, my stronghold._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77c1c78c-9864-42f7-89e4-9e0d385e56e7.jpg)
