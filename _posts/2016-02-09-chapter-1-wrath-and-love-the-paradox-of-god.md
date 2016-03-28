@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T02:30:24.020Z'
-dateModified: '2016-02-10T00:17:08.104Z'
+datePublished: '2016-03-28T01:55:29.173Z'
+dateModified: '2016-03-28T01:55:00.380Z'
 title: 'Chapter 1- Wrath and Love: The Paradox of God'
 author: []
 sourcePath: _posts/2016-02-09-chapter-1-wrath-and-love-the-paradox-of-god.md
@@ -23,7 +23,8 @@ _type: Article
 
 ---
 **__**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7014b62a-8f31-4768-ab8d-79e03f49995e.jpg)
+
+**__**
 
 **__**
 
@@ -722,4 +723,4 @@ universe---the wrath of God and the love of God---collide at the cross in a holy
 paradox to teach us what fearing God means. The rest of this book will start to
 put feet on that paradox as we look more closely at the cross and how it
 teaches us to fear God, and at Jesus, the Paradox himself, who is both Lion and
-Lamb, majestic and meek, holy and humble.
+Lamb, majestic and meek, holy and humble. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19ffe698-b2ad-48de-a010-c7990cafe676.jpg)
