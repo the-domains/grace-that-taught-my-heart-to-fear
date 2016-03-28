@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T02:39:42.879Z'
-dateModified: '2016-02-10T02:39:38.766Z'
+datePublished: '2016-03-28T02:03:20.124Z'
+dateModified: '2016-03-28T02:03:09.617Z'
 title: Chapter 7- Living in the Eye of the Hurricane
 author: []
 sourcePath: _posts/2016-02-09-chapter-7-living-in-the-eye-of-the-hurricane.md
@@ -23,7 +23,8 @@ _type: Article
 
 ---
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1d62fad-f91b-4a59-a88c-a599d335a259.jpg)
+
+**__**
 
 **__**
 
@@ -172,3 +173,4 @@ __
 _Oh, how abundant is
 your goodness, which you have stored up for those who fear you and worked for
 those who take refuge in you! ~Psalm 31:19_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5c83cbd-a4a3-4eca-94d3-51e1bf707568.jpg)
