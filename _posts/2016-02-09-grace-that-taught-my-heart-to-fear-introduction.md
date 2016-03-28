@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-10T00:11:53.160Z'
-dateModified: '2016-02-10T00:11:33.044Z'
+datePublished: '2016-03-28T01:54:07.860Z'
+dateModified: '2016-03-28T01:52:37.640Z'
 title: Grace That Taught My Heart To Fear- Introduction
 author: []
 sourcePath: _posts/2016-02-09-grace-that-taught-my-heart-to-fear-introduction.md
@@ -23,7 +23,8 @@ _type: Article
 
 ---
 **__**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/208753ce-ce59-440c-8e4e-ba322ab0aed3.png)
+
+**__**
 
 **__**
 
@@ -202,3 +203,4 @@ __
 
 _The hour I first
 believed!_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/355af708-3ad9-4990-8564-808b74453046.jpg)
