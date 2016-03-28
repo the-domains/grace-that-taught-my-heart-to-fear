@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T02:30:49.727Z'
-dateModified: '2016-02-10T02:30:46.358Z'
+datePublished: '2016-03-28T01:56:30.528Z'
+dateModified: '2016-03-28T01:56:19.436Z'
 title: Chapter 2- Knowing that You Were Ransomed
 author: []
 sourcePath: _posts/2016-02-09-chapter-2-knowing-that-you-were-ransomed.md
@@ -23,7 +23,8 @@ _type: Article
 
 ---
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8bbc2cd-3aab-4605-a212-c57d687ac540.jpg)
+
+**__**
 
 **__**
 
@@ -365,3 +366,4 @@ Holy Spirit so open your eyes to the preciousness of paradoxical grace that its
 value in your eyes would only increase, day by day and into eternity, where we
 will join around the throne to praise, singing, "Worthy is the Lamb who was
 slain!"
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74486289-bda5-4280-8d89-0788e8bc47f5.jpg)
