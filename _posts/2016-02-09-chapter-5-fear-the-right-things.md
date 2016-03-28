@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T02:32:06.546Z'
-dateModified: '2016-02-10T02:32:02.802Z'
+datePublished: '2016-03-28T02:00:41.753Z'
+dateModified: '2016-03-28T02:00:00.875Z'
 title: Chapter 5- Fear the Right Things
 author: []
 sourcePath: _posts/2016-02-09-chapter-5-fear-the-right-things.md
@@ -23,7 +23,8 @@ _type: Article
 
 ---
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/764359bf-0a8a-411e-a77a-b3683e4ecf81.jpg)
+
+**__**
 
 **__**
 
@@ -713,3 +714,4 @@ experience every trial from the most secure position imaginable: held by the
 omnipotent hand that has extinguished all judgments against you. Nothing can
 shake you from that hand of love. "In all these things we are more than
 conquerors through him who loved us" (Romans 8:37).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf1d29d-eb15-4fe0-b0e5-41a7d43f956f.jpg)
