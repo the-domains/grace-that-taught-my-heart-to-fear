@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-28T01:54:07.860Z'
-dateModified: '2016-03-28T01:52:37.640Z'
+datePublished: '2016-03-28T02:11:11.098Z'
+dateModified: '2016-03-28T02:10:59.015Z'
 title: Grace That Taught My Heart To Fear- Introduction
 author: []
 sourcePath: _posts/2016-02-09-grace-that-taught-my-heart-to-fear-introduction.md
@@ -30,6 +30,8 @@ _type: Article
 
 **_This is the
 commandment: that you may fear the LORD your God. ~Deuteronomy 6:2_**
+
+**__**
 
 Fear is a
 funny thing. Nobody likes to be afraid---except for when we do: roller coasters,
@@ -203,4 +205,4 @@ __
 
 _The hour I first
 believed!_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/355af708-3ad9-4990-8564-808b74453046.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15628826-2784-4b21-bd22-18014c32f34f.jpg)
