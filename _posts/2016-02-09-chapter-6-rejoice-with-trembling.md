@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T02:32:29.654Z'
-dateModified: '2016-02-10T02:32:25.950Z'
+datePublished: '2016-03-28T02:02:47.879Z'
+dateModified: '2016-03-28T02:01:34.717Z'
 title: Chapter 6- Rejoice with Trembling
 author: []
 sourcePath: _posts/2016-02-09-chapter-6-rejoice-with-trembling.md
@@ -23,7 +23,8 @@ _type: Article
 
 ---
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ddd71ff-21c1-4cbd-b99f-ec092e566dc4.jpg)
+
+**__**
 
 **__**
 
@@ -409,4 +410,4 @@ True worship is both a fearful serving and a trembling rejoicing. It trembles
 in wonder that the Holy One has rescued us, and then takes the news of that
 great rescue to a world that needs to hear it. That means the worship service
 doesn't end when you walk out the doors of the church; that's when the truest worship
-begins.
+begins. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a026b76-9775-43bb-8bd9-fd7bfb748f12.jpg)
