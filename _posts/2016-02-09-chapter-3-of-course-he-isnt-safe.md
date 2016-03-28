@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T02:31:13.788Z'
-dateModified: '2016-02-10T02:31:09.303Z'
+datePublished: '2016-03-28T01:58:29.028Z'
+dateModified: '2016-03-28T01:58:15.718Z'
 title: "Chapter 3- Of Course He Isn't Safe"
 author: []
 sourcePath: _posts/2016-02-09-chapter-3-of-course-he-isnt-safe.md
@@ -23,7 +23,8 @@ _type: Article
 
 ---
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f11abe78-760a-469d-9273-c2bfb1ae6f81.jpg)
+
+**__**
 
 **__**
 
@@ -496,3 +497,4 @@ glory and blessing!" ~Revelation 5:12_
 
 He isn't
 safe, but he is good, and what good news that is indeed!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82d7369d-5c6d-4f5d-9785-b274b622236b.jpg)
